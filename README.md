@@ -1,2 +1,2 @@
-# chickenclient-de
-README
+# chickenclient
+Developing The Chicken Client
